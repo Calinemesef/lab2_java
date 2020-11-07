@@ -1,4 +1,3 @@
-package edu.ubb;
 
 import java.util.List;
 

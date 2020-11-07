@@ -1,4 +1,4 @@
-package edu.ubb;
+
 
 public class Fussball extends Mannschaftssport {
 

@@ -1,4 +1,3 @@
-package edu.ubb;
 
 public class Mannschaftssport implements Sport{
 

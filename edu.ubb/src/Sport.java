@@ -1,4 +1,3 @@
-package edu.ubb;
 
 public interface Sport {
 
