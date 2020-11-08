@@ -1,6 +1,6 @@
 
 public interface Sport {
 
-    public double kalkuliereZeit();
+    /**public*/ double kalkuliereZeit();
 
 }
